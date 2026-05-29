@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvalculate",
+        "uuid": 2134575,
+        "checksum": "5d8nq"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
